@@ -1,4 +1,3 @@
-
 <p align="center">
-  <img src="https://media.tenor.com/obCjvF-nS84AAAAi/chibi-anime.gif" width="250"/>
+  <img src="https://media.tenor.com/VaLWiJte4lIAAAAi/chibi-thinking.gif" width="220"/>
 </p>
